@@ -1,5 +1,7 @@
 # Trabalho2-OO
 Repositório para o trabalho de Orientação a Objetos da matéria de Linguagens de Programação.
+
+Repository for Object Orientation work on the subject of Programming Languages.
 ##
 📌 Segue abaixo o enunciado: 
 
